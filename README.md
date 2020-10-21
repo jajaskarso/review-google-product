@@ -1,5 +1,5 @@
-# review-google-product
-coba review youtube
+# Eksplorasi YouTube
+Disusun oleh : Faza Muhandisa Asro 16520355
 
 ## Sejarah Singkat YouTube
 Dirintis oleh Jawed Karim, Steve Chen, dan Chad Hurley, YouTube pertama kali diperkenalkan kepada publik pada tahun 2005 dan kini sudah menjadi salah satu situs yang paling dikunjungi sepanjang sejarah internet. Sebagai karyawan PayPal saat itu, 2004, mereka bertiga menyadari bahwa belum ada suatu wadah di mana orang bisa membagikan video mereka secara daring. Akhirnya tercetuslah ide untuk bekerja sama mendirikan 'proyek kecil' tersebut.
